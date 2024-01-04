@@ -1,0 +1,35 @@
+/* Write your code here. */
+.bg-container {
+  height: 100vh;
+  padding: 40px;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.t-container {
+  width: 70%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.m-image {
+  margin-top: 30px;
+  margin-left: 35px;
+  height: 70%;
+  width: 90%;
+}
+
+.text1 {
+  margin-left: 35px;
+  color: #1e293b;
+}
+
+.text2 {
+  margin-left: 35px;
+  color: #64748b;
+}
